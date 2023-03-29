@@ -1,9 +1,5 @@
 .Matheus{
-
 🧠knowledge: HTML & CSS;
-
 📚learning: Python;
-
-🎓for-ever: Student and Curious;
-
+🎓forever: Student and Curious;
 }
